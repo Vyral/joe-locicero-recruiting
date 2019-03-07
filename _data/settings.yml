@@ -1,14 +1,14 @@
 audit_header: false
 title: "Tampa's Best Real Estate Training"
 description: Joe LoCicero, a top Real Estate Agent in Tampa, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
-show_custom_links: false
+show_custom_links: true
 custom_links:
   - title: Join Our Team
-    url: /join-our-team/
-  - title: Events
-    url: #
-  - title: Free Strategy Call
-    url: /contact/
+    url: https://team54.com/recruitment
+  # - title: Events
+  #   url: #
+  # - title: Free Strategy Call
+  #   url: /contact/
   - title: Free Newsletter
     url: /subscribe/
 
@@ -22,15 +22,15 @@ client:
 
     Joe takes a very innovative approach when marketing a property and embraces technology. He realizes that every situation is different and will customize his marketing plan to meet his client’s unique needs.
   market: Tampa
-  brand: The Real Estate Playbook, Team 54
-  brokerage: RE/MAX Champions
+  brand: The Real Estate Playbook
+  brokerage:
   address: 20525 Amberfield Dr. Suite 101 Land O' Lakes, FL
-  phone: 813-435-5411
+  phone: 831-841-8220
   phone_type:
   phone2:
   phone2_type:
-  email: Joe@Team54.com
-  url: https://team54.com
+  email: info@therealestateplaybook.com
+  url:
 
 lender:
   show_section: false
@@ -77,7 +77,7 @@ podcast:
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Tampa Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Real Estate Playbook, Team 54 - your professional Tampa Real Estate Agents.'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Real Estate Playbook - your professional Tampa Real Estate Agents.'
   keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tampa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: 'Joe LoCicero'
 
