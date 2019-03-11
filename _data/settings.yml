@@ -5,8 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: https://team54.com/recruitment
-  # - title: Events
-  #   url: #
+  - title: Events
+    url: https://www.eventbrite.com/o/the-real-estate-playbook-19227877526
   # - title: Free Strategy Call
   #   url: /contact/
   - title: Free Newsletter
