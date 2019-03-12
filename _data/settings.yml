@@ -11,7 +11,8 @@ custom_links:
   #   url: /contact/
   - title: Free Newsletter
     url: /subscribe/
-
+  - title: My Facebook Page
+    url: https://www.facebook.com/therealestateplaybook/
 
 client:
   name: Joe LoCicero
