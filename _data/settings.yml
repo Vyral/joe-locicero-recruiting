@@ -13,6 +13,8 @@ custom_links:
     url: /subscribe/
   - title: My Facebook Page
     url: https://www.facebook.com/therealestateplaybook/
+  - title: Testimonials
+    url: /testimonials/
 
 client:
   name: Joe LoCicero
