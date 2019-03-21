@@ -2667,6 +2667,18 @@ form select {
   margin-top: -20px;
   font-size: 18px; }
 
+.testimonial-image-container {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  border: 3px solid #004e9b;
+  overflow: hidden;
+  margin: 20px;
+  float: right; }
+
+.testimonial-image {
+  max-width: 100px; }
+
 .recruiting {
   text-align: center; }
 
